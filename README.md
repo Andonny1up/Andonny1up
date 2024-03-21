@@ -13,10 +13,10 @@ Estoy buscando colaborar en... -->
 ## 🛠 Habilidades
 
 ### Backend
-![My Skills Backend](https://skillicons.dev/icons?i=django,laravel)
+[![My Skills Backend](https://skillicons.dev/icons?i=django,laravel)]()
 
 ### Frotend
-![My Skills Frotend](https://skillicons.dev/icons?i=js,html,css,bootstrap,react)
+[![My Skills Frotend](https://skillicons.dev/icons?i=js,html,css,bootstrap,react)]()
 
 ### Bases de Datos
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
